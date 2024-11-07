@@ -5,6 +5,7 @@ Yoshiki Nakajima
 Ricardo-Gonzales
 Brian Li
 Yugraj Dhillon
+Beckett Hayes
 
 main
 
